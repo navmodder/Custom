@@ -1,0 +1,3 @@
+
+call sigscan.exe
+pause
